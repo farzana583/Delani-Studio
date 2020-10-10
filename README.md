@@ -10,7 +10,7 @@ README.md
 
 ### Git Hub Live Link
 *click to view my Delani-Studio*
-[https://kerrykogei24.github.io/Kerry-Portfolio/](https://kerrykogei24.github.io/Kerry-Portfolio/)
+[https://github.com/farzana583/Delani-Studio](https://github.com/farzana583/Delani-Studio)
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Kerry Kipchumba Kogei]
