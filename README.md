@@ -13,7 +13,7 @@ README.md
 [https://github.com/farzana583/Delani-Studio](https://github.com/farzana583/Delani-Studio)
 ## Copyright and License
 MIT License
-Copyright (c) [2020] [Kerry Kipchumba Kogei]
+Copyright (c) [2020] [Farzana Isack]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
