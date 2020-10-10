@@ -5,8 +5,23 @@
     background-image:url("/assets/backgrounds/h_img.jpg");
     background-size: cover;
     background-position: center;
+    text-align: center;
+    color: #fff;
+    height: 70vh;
+    font-size: small;
+ 
     /* padding:200px;
     padding-left: 20px; */
+}
+.faz{
+   /* margin-top: 12%; */
+   font-size: small;
+}
+#dilani{
+font-size: 25px;
+}
+#welcome{
+    margin-top: 1%;
 }
 /* .logo{
     display: block;
@@ -42,9 +57,11 @@
     position: absolute;
     bottom:-20px;
 } */
-
-.intro{
-    text-align: center;
+.logo{
+    width: 60px;
+    margin-top: 8%;
+}.click{
+    margin-top:4%;
 }
 .about{
     text-align: center;
