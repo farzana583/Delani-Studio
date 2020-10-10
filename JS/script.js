@@ -12,17 +12,17 @@ $(document).ready(function(){
     $("#design").slideUp();
     $("#design-image").slideDown();
   });
-//    $("#development-image").click(function(){
-//     $("#development-image").hide()
-//     $("#development-image").slideDown().hide()
-//     $("#development").show();
-//   });
-//   $("#development").click(function(){
-//     $("#development").hide();
-//     $("#development-image").show();
-//     $("#development").slideUp();
-//     $("#development-image").slideDown();
-//   });
+   $("#development-image").click(function(){
+    $("#development-image").hide()
+    $("#development-image").slideDown().hide()
+    $("#development").show();
+  });
+  $("#development").click(function(){
+    $("#development").hide();
+    $("#development-image").show();
+    $("#development").slideUp();
+    $("#development-image").slideDown();
+  });
     $("#product-image").click(function(){
     $("#product-image").hide()
     $("#product-image").slideDown().hide()
