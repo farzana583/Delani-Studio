@@ -1,18 +1,15 @@
 README.md
-# Kerry-Portfolio
-#### {This a portfolio that describe Kerry kipchumba Kogei in details}, {26/09/2020}
-#### By **Kerry Kipchumba Kogei**    
+# Farzana Isack-Delani-Studio
+#### {This is a website for Delani studio showing its services and a form to reach out to them.}, {11/10/2020}
+#### By **Farzana Isack**    
 ---
 ## Setup instructions
 * Launch your browser
-* on your search bar white [https://github.com/Kerrykogei24/Kerry-Portfolio](https://github.com/Kerrykogei24/Kerry-Portfolio)
+* on your search bar white [https://github.com/farzana583/Delani-Studio](https://github.com/farzana583/Delani-Studio)
 * on github click the link and you ready to go.
----
-#### project image
-![Kerrykogei](./images/potfo.png)
----
+
 ### Git Hub Live Link
-*click to view my portfolio*
+*click to view my Delani-Studio*
 [https://kerrykogei24.github.io/Kerry-Portfolio/](https://kerrykogei24.github.io/Kerry-Portfolio/)
 ## Copyright and License
 MIT License
