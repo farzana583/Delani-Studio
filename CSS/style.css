@@ -10,11 +10,10 @@
     height: 70vh;
     font-size: small;
  
-    /* padding:200px;
-    padding-left: 20px; */
+  
 }
 .faz{
-   /* margin-top: 12%; */
+  
    font-size: small;
 }
 #dilani{
@@ -23,40 +22,7 @@ font-size: 25px;
 #welcome{
     margin-top: 1%;
 }
-/* .logo{
-    display: block;
-    margin-left: 500px;
-    margin-right: auto;
-    width: 50px
-} */
-/* #welcome{
-    text-align: center;
-    color: white;
-    margin-left:200px;
-    font-size:28px ;
-    font-weight: bold;
-} */
-/* #dilani{
-    text-align: center;
-    color: white;
-    margin-left:200px;
-    font-size: 25px;
-    font-weight: bold;
-} */
-/* .intro  p{
-    text-align: center;
-    color: white;
-    margin-left:200px;
-    font-size: xx-small;
-    font-weight: bold;
-} */
-/* .click{
-    display: block;
-    margin-left: 500px;
-    margin-right: auto;
-    position: absolute;
-    bottom:-20px;
-} */
+
 .logo{
     width: 60px;
     margin-top: 8%;
