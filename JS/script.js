@@ -47,11 +47,11 @@ $(document).ready(function(){
   }).mouseout(function(){
     $("#overlay2").hide();
   });
-  $("#work3").mouseover(function(){
-    $("#overlay3").show();
-  }).mouseout(function(){
-    $("#overlay3").hide();
-  });
+//   $("#work3").mouseover(function(){
+//     $("#overlay3").show();
+//   }).mouseout(function(){
+//     $("#overlay3").hide();
+//   });
   $("#work4").mouseover(function(){
     $("#overlay4").show();
   }).mouseout(function(){
