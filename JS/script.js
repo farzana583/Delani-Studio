@@ -1,5 +1,4 @@
-$
-//what we do section
+
 $(document).ready(function(){
   $("#design-image").click(function(){
     $("#design-image").hide()
@@ -35,7 +34,6 @@ $(document).ready(function(){
     $("#product-image").slideDown();
   });
 });
-// poertfolio text overlay images
 $(document).ready(function(){
   $("#work1").mouseover(function(){
     $("#overlay").show();
@@ -118,10 +116,8 @@ $("#work8").mouseover(function(){
   $("#overlay8").hide();
 });
 });
-//form input validation
 $(document).ready(function(){
 $("form#formValidity").submit(function(event){
-  // event.preventDefault();
   var name = $("input#MERGE1").val();
   var email = $("input#MERGE0").val();
   var message = $("textarea#comment").val();
