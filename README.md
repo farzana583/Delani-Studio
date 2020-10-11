@@ -1,6 +1,6 @@
 README.md
 # Farzana Isack-Delani-Studio
-#### {This is a website for Delani studio showing its services and a form to reach out to them.}, {11/10/2020}
+#### {This is a website for Delani studio showing its services and a form to reach out for us.}, {11/10/2020}
 #### By **Farzana Isack**    
 ---
 ## Setup instructions
@@ -10,7 +10,7 @@ README.md
 
 ### Git Hub Live Link
 *click to view my Delani-Studio*
-[https://github.com/farzana583/Delani-Studio](https://github.com/farzana583/Delani-Studio)
+[https://farzana583.github.io/Delani-Studio/](https://farzana583.github.io/Delani-Studio/)
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Farzana Isack]
